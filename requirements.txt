@@ -1,7 +1,7 @@
 # ===== Core DL =====
 tensorflow==2.15.1
 
-# ===== Scientific stack (versiones compatibles con TF 2.15) =====
+# ===== Scientific stack (versiones compatibles con TF 2.15 y Python 3.11) =====
 numpy==1.26.4
 pandas==2.2.2
 matplotlib==3.8.4

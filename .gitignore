@@ -3,6 +3,7 @@ venv/
 env/
 ENV/
 .venv/
+.venv311/
 .env/
 
 # Python
@@ -31,6 +32,8 @@ MANIFEST
 # Jupyter Notebook
 .ipynb_checkpoints/
 */.ipynb_checkpoints/*
+.matplotlib_cache/
+.keras_cache/
 
 # IPython
 profile_default/
